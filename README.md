@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Md. Nazmus Sakib
-- 👀 I’m interested in C, C++, Python & javaScript for Cyber Security
-- 🌱 I’m currently learning CCNA & CEH
-- 💞️ I’m looking to collaborate on C, C++, Python & CEH
+- 👀 I’m interested in Html, CSS & javaScript for Web Development
 - 📫 How to reach me by my email 19103216@iubat.edu or iotcsiot@gmail.com
 
 <!---
